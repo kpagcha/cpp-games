@@ -1,0 +1,4 @@
+﻿  TicTacToeGame.cpp
+c:\users\pablo\documents\visual studio 2015\projects\tictactoe\tictactoe\tictactoegame.cpp(94): warning C4715: 'TicTacToeGame::placeMarker': not all control paths return a value
+  TicTacToe.vcxproj -> c:\users\pablo\documents\visual studio 2015\Projects\TicTacToe\Debug\TicTacToe.exe
+  TicTacToe.vcxproj -> c:\users\pablo\documents\visual studio 2015\Projects\TicTacToe\Debug\TicTacToe.pdb (Partial PDB)

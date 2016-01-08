@@ -1,0 +1,8 @@
+﻿  Level.cpp
+c:\users\pablo\documents\visual studio 2015\projects\asciiroguelike\asciiroguelike\level.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\pablo\documents\visual studio 2015\projects\asciiroguelike\asciiroguelike\level.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\pablo\documents\visual studio 2015\projects\asciiroguelike\asciiroguelike\level.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\pablo\documents\visual studio 2015\projects\asciiroguelike\asciiroguelike\level.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\pablo\documents\visual studio 2015\projects\asciiroguelike\asciiroguelike\level.cpp(185): warning C4018: '<': signed/unsigned mismatch
+  AsciiRogueLike.vcxproj -> C:\Users\Pablo\Documents\Visual Studio 2015\Projects\AsciiRogueLike\Debug\AsciiRogueLike.exe
+  AsciiRogueLike.vcxproj -> C:\Users\Pablo\Documents\Visual Studio 2015\Projects\AsciiRogueLike\Debug\AsciiRogueLike.pdb (Partial PDB)

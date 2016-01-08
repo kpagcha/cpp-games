@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameChallenge_3_ASCII_Roguelike", "GameChallenge_3_ASCII_Roguelike\GameChallenge_3_ASCII_Roguelike.vcxproj", "{AAD4317E-60F3-4AD5-8436-295C0424C8A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD4317E-60F3-4AD5-8436-295C0424C8A4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AAD4317E-60F3-4AD5-8436-295C0424C8A4}.Debug|Win32.Build.0 = Debug|Win32
+		{AAD4317E-60F3-4AD5-8436-295C0424C8A4}.Release|Win32.ActiveCfg = Release|Win32
+		{AAD4317E-60F3-4AD5-8436-295C0424C8A4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

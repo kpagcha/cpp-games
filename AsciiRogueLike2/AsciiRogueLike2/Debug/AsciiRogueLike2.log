@@ -1,0 +1,13 @@
+﻿  Player.cpp
+c:\users\pablo\documents\visual studio 2015\projects\asciiroguelike2\asciiroguelike2\player.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Level.cpp
+c:\users\pablo\documents\visual studio 2015\projects\asciiroguelike2\asciiroguelike2\level.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\pablo\documents\visual studio 2015\projects\asciiroguelike2\asciiroguelike2\level.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\pablo\documents\visual studio 2015\projects\asciiroguelike2\asciiroguelike2\level.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\pablo\documents\visual studio 2015\projects\asciiroguelike2\asciiroguelike2\level.cpp(161): warning C4018: '<': signed/unsigned mismatch
+c:\users\pablo\documents\visual studio 2015\projects\asciiroguelike2\asciiroguelike2\level.cpp(259): warning C4018: '<': signed/unsigned mismatch
+  GameSystem.cpp
+  Generating Code...
+  AsciiRogueLike2.vcxproj -> c:\users\pablo\documents\visual studio 2015\Projects\AsciiRogueLike2\Debug\AsciiRogueLike2.exe
+  AsciiRogueLike2.vcxproj -> c:\users\pablo\documents\visual studio 2015\Projects\AsciiRogueLike2\Debug\AsciiRogueLike2.pdb (Partial PDB)
